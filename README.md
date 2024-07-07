@@ -31,7 +31,7 @@ This project implements a face recognition system using the Labeled Faces in the
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/yourusername/face-recognition-project.git
+git clone https://github.com/SmrutiYelpure/Face-Recognition-using-Python.git
 cd face-recognition-project
 Copy
 2. Create a virtual environment:
